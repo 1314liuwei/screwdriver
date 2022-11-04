@@ -1,0 +1,6 @@
+# systemd
+
+> This is a service that uses dbus to control systemd to manage services.
+> For dbus documents, refer to <https://www.freedesktop.org/software/systemd/man/org.freedesktop.systemd1.html>.
+> The dbus method is safer than the cli method (to prevent command injection)
+
